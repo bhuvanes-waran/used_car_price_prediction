@@ -26,4 +26,4 @@ The dataset used for this project was obtained from CarDekho. It includes variou
 
 ## How to Run the App
 1. Clone this repository:
-   >>>bash git clone https://github.com/bhuvanes-waran/used_car_price_prediction/
+   >>>bash git clone https://github.com/bhuvanes-waran/used_car_price_prediction.git
