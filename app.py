@@ -1,7 +1,7 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-import joblib
+from sklearn.externals import joblib
 
 # Load the trained model from the file
 model = joblib.load('car_price_model.pkl')
