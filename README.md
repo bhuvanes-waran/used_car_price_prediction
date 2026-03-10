@@ -1,3 +1,4 @@
+# Used Car Price Prediction
 # used_car_price_prediction
 
 This project involves the development of a machine learning model that predicts the price of used cars based on various features. The model has been deployed as a Streamlit web app where users can input details of a car and get a real-time price prediction.
